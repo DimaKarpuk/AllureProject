@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SelenideSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-23T08:49:38" hostname="KARP_OLA" time="9.118">
+  <properties/>
+  <testcase name="testIssueSearch()" classname="SelenideSearchTest" time="9.118"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
